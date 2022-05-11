@@ -1,0 +1,17 @@
+Type
+NEO_CUSTOMER_IDENTITY
+Client ID
+7a88402c-736f-3c82-821c-a1b4755cd246
+Client Secret
+52496f1e-b8b8-395b-ba0d-4d39b58eac6a
+
+
+https://clm-sl-ans-live-ans-service-api.cfapps.ap10.hana.ondemand.com/neo/producer/v1/resource-events
+
+
+Type
+ANS_BASIC_CUSTOMER_IDENTITY
+Client ID
+57b4129f-3756-4a2f-a091-72d9cb893efa
+Client Secret
+8dHjNKJY3eAZbPKEYIqRwhw5bKdbUSbd
